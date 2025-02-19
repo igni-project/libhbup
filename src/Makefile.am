@@ -1,0 +1,1 @@
+nobase_pkginclude_HEADERS=hbup_core.h hbup_preproc.h
